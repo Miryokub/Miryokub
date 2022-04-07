@@ -9,6 +9,7 @@ Here are ideas to get you started
 - 🤔 I’m looking for help with ...Python with Django
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...https://t.me/Inthislifefamilyimportant
+- 📧 Email me .... miryoqub.ganiev@mail.ru            
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am half finish
 -->
