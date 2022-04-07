@@ -1,4 +1,5 @@
-### Here is what I'm working on!           https://giphy.com/clips/t5hXhd8P8zTe6s0yhW                                                     
+### Here is what I'm working on!                                                  ![image](https://user-images.githubusercontent.com/65726839/162179679-07aa0ec5-a295-4745-932c-d764f117d721.png)
+                                                  
 
 
 Here are ideas to get you started 
