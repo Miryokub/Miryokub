@@ -11,7 +11,9 @@ Here are ideas to get you started
 - 📫 How to reach me: ...https://t.me/Inthislifefamilyimportant        
 - 📧 Email me .... miryoqub.ganiev@mail.ru            
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am half finish some project    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miryokub)](https://github.com/Miryokub/github-readme-stats)    
+- ⚡ Fun fact: ...I am half finish some project   
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miryokub)](https://github.com/Miryokub/github-readme-stats)    
 
 
 
