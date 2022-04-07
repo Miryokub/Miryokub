@@ -15,7 +15,7 @@ Here are ideas to get you started
 -->
 
 
-  ![image](https://user-images.githubusercontent.com/65726839/162173392-30f39afd-a224-494f-b705-6c64de62dfd5.png/60px)
+  ![image](https://user-images.githubusercontent.com/65726839/162173392-30f39afd-a224-494f-b705-6c64de62dfd5.png)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miryokub)](https://github.com/Miryokub/github-readme-stats)
