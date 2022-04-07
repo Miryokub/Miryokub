@@ -14,7 +14,7 @@ Here are ideas to get you started
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am half finish some project   
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miryokub)](https://github.com/Miryokub/github-readme-stats)    
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miryokub)](https://github.com/Miryokub/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miryokub&layout=compact)](https://github.com/Miryokub/github-readme-stats)
 
 
 
