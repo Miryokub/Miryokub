@@ -1,16 +1,14 @@
-### Hi there 👋
+### Here is what I'm working on!
 
-<!--
-**Miryokub/Miryokub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are ideas to get you started 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Python with Django project
+- 🌱 I’m currently learning ...Going through Django Library
+- 👯 I’m looking to collaborate on ...BackEnd 
+- 🤔 I’m looking for help with ...Python with Django
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: ...https://t.me/Inthislifefamilyimportant
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ...I am half finish
 -->
