@@ -11,12 +11,10 @@ Here are ideas to get you started
 - 📫 How to reach me: ...https://t.me/Inthislifefamilyimportant
 - 📧 Email me .... miryoqub.ganiev@mail.ru            
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am half finish
+- ⚡ Fun fact: ...I am half finish some project  <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>  <img src="https://img.icons8.com/color/52/000000/django.png"/>
 -->
 
-   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>   <img src="https://img.icons8.com/color/52/000000/django.png"/>
-
-
+  
 
 ![image](https://user-images.githubusercontent.com/65726839/162174110-76736469-e2f7-4d7f-9f50-b29821ef09e6.png)
 
