@@ -1,6 +1,4 @@
 ### Here is what I'm working on!                                                                                                                                            
-img src="https://img.icons8.com/color/68/000000/python--v2.png"/>  <img src="https://img.icons8.com/color/68/000000/django.png"/>                      
-                                                  
 Here are ideas to get you started 
 
 - 🔭 I’m currently working on ... Python with Django project                     <
