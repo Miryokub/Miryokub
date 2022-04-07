@@ -15,6 +15,7 @@ Here are ideas to get you started
 -->
 
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
 
 
 ![image](https://user-images.githubusercontent.com/65726839/162174110-76736469-e2f7-4d7f-9f50-b29821ef09e6.png)
