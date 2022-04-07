@@ -13,3 +13,4 @@ Here are ideas to get you started
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am half finish
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miryokub)](https://github.com/anuraghazra/github-readme-stats)
