@@ -13,7 +13,7 @@ Here are ideas to get you started
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am half finish
 -->
-  https://images.unsplash.com/photo-1618477388954-7852f32655ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGphdmFzY3JpcHR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=20
+  ![image](https://user-images.githubusercontent.com/65726839/162173392-30f39afd-a224-494f-b775-6c64de62dfd5.png)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miryokub)](https://github.com/Miryokub/github-readme-stats)
