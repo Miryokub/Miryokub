@@ -1,5 +1,4 @@
-### Here is what I'm working on!                                                                 <div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/SpopD7IQN2gK3qN4jS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/website-SpopD7IQN2gK3qN4jS">via GIPHY</a></p>
-
+### Here is what I'm working on!           https://giphy.com/clips/t5hXhd8P8zTe6s0yhW                                                     
 
 
 Here are ideas to get you started 
