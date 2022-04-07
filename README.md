@@ -14,7 +14,7 @@ Here are ideas to get you started
 - ⚡ Fun fact: ...I am half finish
 -->
 
-   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>   <img src="https://img.icons8.com/color/48/000000/django.png"/>
+   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>   <img src="https://img.icons8.com/color/52/000000/django.png"/>
 
 
 
